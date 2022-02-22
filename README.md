@@ -1,4 +1,4 @@
-### <span style="color:red">_cat_</span>
+### _cat_
 ### _in_
 ### _space_
 
