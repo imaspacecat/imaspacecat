@@ -1,4 +1,4 @@
-### <p style="color:red">_cat_</p>
+### <span style="color:red">_cat_</span>
 ### _in_
 ### _space_
 
