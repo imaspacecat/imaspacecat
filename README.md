@@ -6,8 +6,7 @@
 
 
 
-
-_amogus_ 
 # ඞ
+_amogus_ 
  
  
