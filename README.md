@@ -1,8 +1,2 @@
-### _cat_
-### _in_
-### _space_
-
-# ඞ
-_amogus_ 
- 
- 
+cat in space
+who also codes
