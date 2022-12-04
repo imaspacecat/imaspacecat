@@ -1,6 +1,4 @@
-java <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="20"> and python <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="20"> are good,
-
-everything else is irrelevant or invalid
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="20"> and <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="20"> good, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="20"> bad
 
 change my mind
 
